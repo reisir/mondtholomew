@@ -1,12 +1,10 @@
 [MeasureRecycleBin]
-Measure=Plugin
-Plugin=RecycleManager.dll
+Measure=RecycleManager
 Drives=ALL
 RecycleType=COUNT
 
 [MeasureRecycleBinSize]
-Measure=Plugin
-Plugin=RecycleManager.dll
+Measure=RecycleManager
 Drives=ALL
 RecycleType=SIZE
 
