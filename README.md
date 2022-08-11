@@ -18,4 +18,4 @@ For weather to work, you need to install jsmorley's [Weather.com skin](https://f
 ## Credits
 
 - Original [Mond](https://www.deviantart.com/apexxx-sensei/art/Mond-762455575) skin by [ApexXx-SenSei](https://www.deviantart.com/apexxx-sensei)
-- [Weather.com parser](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501) by @jsmorley
+- [Weather.com parser](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501) by [@jsmorley](https://github.com/jsmorley)
