@@ -4,7 +4,7 @@ but I fixed it, for the most part
 
 ## Usage
 
-Download and install the newest .rmskin package from [releases](./releases/latest)
+Download and install the newest .rmskin package from [releases](https://github.com/reisir/mond/releases/latest)
 
 For weather to work, you need to install jsmorley's [Weather.com skin](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501). This skin hijacks that skins measures, icons and configuration.
 
