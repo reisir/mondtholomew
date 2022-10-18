@@ -1,6 +1,8 @@
+![mondo](https://user-images.githubusercontent.com/93496808/196546066-9f953b05-69fe-4f50-9a01-b58d1e03d107.jpg)
+
 # Mondtholomew
 
-Mond but I fixed it, for the most part
+Mond, but I fixed it, for the most part
 
 ## Usage
 
