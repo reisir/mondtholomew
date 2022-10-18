@@ -4,15 +4,14 @@ Mond but I fixed it, for the most part
 
 ## Usage
 
-Download and install the newest .rmskin package from [releases](https://github.com/reisir/mond/releases/latest)
+Download and install the newest .rmskin package from [releases](./releases/latest)
 
-For weather to work, you need to install jsmorley's [Weather.com skin](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501). This skin hijacks that skins measures, icons and configuration.
+Mondtholomew uses [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying) by default. This lets the player skin read information from your browser with a [browser extension](https://github.com/tjhrulz/WebNowPlaying#extension-links). You can also use the Spotify app but you need to install [Spicetify](https://spicetify.app/docs/getting-started) to use it with any Rainmeter skin.
+
+Right click any of the skins other than weather to center them or to open the settings file. When you edit the settings remember to save the file and then `right click > refresh` the skin to see changes.
 
 ## Known issues
 
-- Player breaks with durations longer than an hour.
-- Player `RemoveArtistFromTitle` feature hangs rainmeter with sufficiently long titles. It's turned off by default because of this.
-- Weather doesn't load very gracefully
 - No settings skin
 
 ## Credits
