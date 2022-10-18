@@ -2,8 +2,8 @@
 Meter=Image
 MeasureName=@CurrentIcon
 DynamicVariables=1
-Path=#SKINSPATH#Weather.Com\@Resources\Images\[#IconStyle]\
-H=(80 * #Scale#)
+Path=#@#Weather\[#IconStyle]\
+W=(80 * #Scale#)
 
 [WeatherBase]
 FontFace=#FontFace1#
