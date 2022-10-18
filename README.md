@@ -1,6 +1,6 @@
-# MOND
+# Mondtholomew
 
-but I fixed it, for the most part
+Mond but I fixed it, for the most part
 
 ## Usage
 
