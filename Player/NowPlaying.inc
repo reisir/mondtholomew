@@ -4,7 +4,7 @@ Measure=NowPlaying
 PlayerName=#PlayerName#
 PlayerType=TITLE
 RegExpSubstitute=#RemoveArtistFromTitle#
-Substitute="(?i)^[MeasureArtist].*?-\s?":"","(?i)^([MeasureArtist])":""
+Substitute=#Substitute#
 DynamicVariables=1
 
 [MeasureProgress]
