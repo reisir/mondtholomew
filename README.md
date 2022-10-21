@@ -2,13 +2,14 @@
 
 # Mondtholomew
 
-Mond, but I fixed it, for the most part
+Mond but it work
 
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it
-- Weather works 
-- Uses WebNowPlaying for browser and spotify media info
+- Weather that actually works
+- Seamless resizing with mousewheel
+- Uses WebNowPlaying for browser and Spotify media info
   - Can be switched back to normal NowPlaying for local music players
 
 ## Usage
