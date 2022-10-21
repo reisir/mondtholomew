@@ -6,7 +6,7 @@ Mond, but I fixed it, for the most part
 
 ## Features
 
-- Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default
+- Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it
 - Weather works 
 - Uses WebNowPlaying for browser and spotify media info
   - Can be switched back to normal NowPlaying for local music players
