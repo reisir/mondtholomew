@@ -1,6 +1,16 @@
+![mondo](https://user-images.githubusercontent.com/93496808/196546066-9f953b05-69fe-4f50-9a01-b58d1e03d107.jpg)
+
 # Mondtholomew
 
-Mond but I fixed it, for the most part
+Mond but it work
+
+## Features
+
+- Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it
+- Weather that actually works
+- Seamless resizing with mousewheel
+- Uses WebNowPlaying for browser and Spotify media info
+  - Can be switched back to normal NowPlaying for local music players
 
 ## Usage
 
