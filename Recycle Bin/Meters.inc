@@ -33,6 +33,7 @@ Text=#Size# %1B
 
 [RecycleIconAlignment]
 W=(80 * #Scale#)
+DynamicVariables=1
 X=r
 
 [MeterIconEmpty]
