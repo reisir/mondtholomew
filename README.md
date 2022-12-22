@@ -1,5 +1,7 @@
 ![mondo](https://user-images.githubusercontent.com/93496808/196546066-9f953b05-69fe-4f50-9a01-b58d1e03d107.jpg)
 
+![mond small](https://user-images.githubusercontent.com/93496808/209139555-5de5a09d-bf11-47b5-a035-882a5671db4f.png)
+
 # Mondtholomew
 
 Mond but it work
