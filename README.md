@@ -14,6 +14,8 @@ Mond but it work
 - Uses WebNowPlaying for browser and Spotify media info
   - Can be switched back to normal NowPlaying for local music players
 
+You might also want to check out [Robux](https://github.com/reisir/robux), it's "Robik but it work"!
+
 ## Usage
 
 Download and install the newest .rmskin package from [releases](https://github.com/reisir/mondtholomew/releases/latest)
