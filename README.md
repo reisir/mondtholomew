@@ -22,6 +22,14 @@ Mondtholomew uses [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying) by d
 
 Right click any of the skins other than weather to center them or to open the settings file. When you edit the settings remember to save the file and then `right click > refresh` the skin to see changes.
 
+## Installation
+
+Install [Rainmeter](https://www.rainmeter.net/)
+
+Get the newest .rmskin from [releases](https://github.com/reisir/mondtholomew/releases) and open it (the installer won't run without rainmeter)
+
+![image](https://user-images.githubusercontent.com/93496808/210018027-e1c0f16d-037f-4bc4-bf13-7f05090c9b93.png)
+
 ## Known issues
 
 - No settings skin
