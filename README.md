@@ -6,6 +6,8 @@ Mond but it work
 
 ![mond small](https://user-images.githubusercontent.com/93496808/209139555-5de5a09d-bf11-47b5-a035-882a5671db4f.png)
 
+![has 3 trojan](https://user-images.githubusercontent.com/93496808/211107686-d3ebe9bd-ec9c-4281-bb73-85c978eb1e0e.png)
+
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it
