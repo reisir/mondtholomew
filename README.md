@@ -14,6 +14,7 @@ Mond but it work
 - Weather that actually works
 - Seamless resizing with mousewheel
 - Easy centering through the right click menu options
+- Uses the local language format for dates
 - Uses WebNowPlaying for browser and Spotify media info
   - Can be switched back to normal NowPlaying for local music players
 
