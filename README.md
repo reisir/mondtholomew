@@ -13,6 +13,7 @@ Mond but it work
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it
 - Weather that actually works
 - Seamless resizing with mousewheel
+- Easy centering through the right click menu options
 - Uses WebNowPlaying for browser and Spotify media info
   - Can be switched back to normal NowPlaying for local music players
 
