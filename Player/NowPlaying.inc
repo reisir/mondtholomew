@@ -1,9 +1,8 @@
-
 [MeasureTitle]
 Measure=NowPlaying
 PlayerName=#PlayerName#
 PlayerType=TITLE
-RegExpSubstitute=#RemoveArtistFromTitle#
+RegExpSubstitute=#TitleExtraction#
 Substitute=#Substitute#
 DynamicVariables=1
 
@@ -28,4 +27,3 @@ PlayerType=POSITION
 Measure=NowPlaying
 PlayerName=[MeasureTitle]
 PlayerType=ARTIST
-

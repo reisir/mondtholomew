@@ -1,35 +1,36 @@
-
 [ClockBase]
+AntiAlias=1
+StringAlign=Center
+StringCase=Upper
 DynamicVariables=1
 FontColor=#MainColor#
 FontFace=#FontFace1#
 FontSize=(14 * #Scale#)
+UpdateDivider=-1
+Group=Time
+Y=5R
+X=([MeterDay:W]/2)
 
 [MeterDay]
 Meter=String
-MeterStyle=ClockBase | ClockStyles
+MeasureName=MeasureDay
+Text="%1"
+MeterStyle=ClockBase
 StringAlign=Left
 FontFace=#ClockFont#
 FontSize=(40 * #Scale#)
-MeasureName=MeasureDay
 InlineSetting=CharacterSpacing | (10 * #Scale#) | (10 * #Scale#)
-Text="%1"
+X=0
 Y=0
 
 [MeterDate]
 Meter=String
-MeterStyle=ClockBase | ClockStyles
+MeterStyle=ClockBase 
 MeasureName=MeasureDate
-X=([MeterDay:W]/2)
-DynamicVariables=1
 Text="%1"
-Y=5R
 
-[Meter24hClock]
+[MeterTime]
 Meter=String
-MeterStyle=ClockBase | ClockStyles
+MeterStyle=ClockBase
 MeasureName=MeasureTime
-X=([MeterDay:W]/2)
-DynamicVariables=1
 Text="- %1 -"
-Y=5R

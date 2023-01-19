@@ -1,48 +1,44 @@
 [RecycleTextBase]
+AntiAlias=1
+AutoScale=1
+NumOfDecimals=0
+StringAlign=Right
+StringCase=Upper
 FontFace=#FontFace1#
 FontColor=#MainColor#
-DynamicVariables=1
 FontSize=(12 * #Scale#)
+InlineSetting=Color | #AccentColor#,255
+InlinePattern=(\d*)
+DynamicVariables=1
 Y=R
 
 [MeterRecycleBinText]
 Meter=String
-MeterStyle=RecycleTextBase | RecycleBinTextStyles
+MeterStyle=RecycleTextBase 
 StringAlign=Left
 FontFace=#FontFace2#
 FontSize=(18 * #Scale#)
 Text=#RecycleBin#
 Y=0
 
-[MeterRecycleBinInfoText]
+[MeterFileCount]
 Meter=String
-MeterStyle=RecycleTextBase | RecycleBinTextStyles
-MeasureName=MeasureRecycleBin
+MeterStyle=RecycleTextBase 
+Text=#Files# [MeasureRecycleBinFiles:]
 X=R
-Text=#Files# %1
 
-[MeterRecycleSize]
+[MeterSize]
 Meter=String
-MeterStyle=RecycleTextBase | RecycleBinTextStyles
+MeterStyle=RecycleTextBase 
 MeasureName=MeasureRecycleBinSize
-X=r
 Text=#Size# %1B
+X=r
 
-;-------------------------------------------------------------
-;-------------------------------------------------------------
-
-[RecycleIconAlignment]
+[MeterIcon]
+Meter=Image
+MeasureName=MeasureRecycleBinFiles
+ImageName=#@#Bin\%1.png
 W=(80 * #Scale#)
 DynamicVariables=1
+ImageTint=#AccentColor#
 X=r
-
-[MeterIconEmpty]
-Meter=Image
-ImageName=#@#Bin\Empty.png
-MeterStyle=RecycleIconAlignment | RecyleBinIconStyles
-
-[MeterIconFull]
-Meter=Image
-ImageName=#@#Bin\Full.png
-MeterStyle=RecycleIconAlignment | RecyleBinIconStyles
-Hidden=1

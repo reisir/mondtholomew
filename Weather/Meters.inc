@@ -12,12 +12,17 @@ DynamicVariables=1
 FontSize=(12 * #Scale#)
 X=r
 Y=R
+StringAlign=Left
+StringCase=Upper
+AntiAlias=1
+InlineSetting=Color | #AccentColor#,255
+InlinePattern=(\d*)
 
 [MeterLocation]
 Meter=String
 MeasureName=@LocationName
 FontFace=#FontFace2#
-MeterStyle=WeatherBase | WeatherStyles
+MeterStyle=WeatherBase 
 FontSize=(18 * #Scale#)
 X=10R
 Y=r
@@ -25,13 +30,13 @@ Y=r
 [MeterCurrentCond]
 Meter=String
 MeasureName=@CurrentConditions
-MeterStyle=WeatherBase | WeatherStyles
+MeterStyle=WeatherBase 
 
 [MeterTemperature]
 Meter=String
 MeasureName=@CurrentTemperature
 MeasureName2=@UnitsTemperature
-MeterStyle=WeatherBase | WeatherStyles
+MeterStyle=WeatherBase 
 Text=" %1#Degrees#%2"
 X=R
 Y=r

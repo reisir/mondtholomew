@@ -25,7 +25,6 @@ Substitute="":"N/A"
 Measure=Plugin
 Plugin=WebNowPlaying
 PlayerType=TITLE
-RegExpSubstitute=#RemoveArtistFromTitle#
+RegExpSubstitute=#TitleExtraction#
 Substitute=#Substitute#
-;|^[MeasureArtist]
 DynamicVariables=1
