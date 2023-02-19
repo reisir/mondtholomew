@@ -10,6 +10,8 @@ Mond but it work
 
 ![mond red](https://user-images.githubusercontent.com/93496808/218572990-d6461595-65c8-44dd-bcbd-2a13b0ae0bcb.png)
 
+![jotaro](https://user-images.githubusercontent.com/93496808/219949044-550f362a-cdf4-4b5d-bc36-606afd09b5b4.png)
+
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click > Edit Skin and set ClockFont to Anurati to use it.
