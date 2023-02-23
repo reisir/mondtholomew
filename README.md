@@ -14,7 +14,7 @@ Mond but it work
 
 ## Features
 
-- Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click > Edit Skin and set ClockFont to Anurati to use it.
+- Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click and select the "Use the ugly ahh Mond font" context action.
 - Weather that actually works
 - Seamless resizing with mousewheel
 - Easy centering through the right click menu options
