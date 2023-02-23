@@ -6,8 +6,6 @@ Mond but it work
 
 ![mond small](https://user-images.githubusercontent.com/93496808/209139555-5de5a09d-bf11-47b5-a035-882a5671db4f.png)
 
-![has 3 trojan](https://user-images.githubusercontent.com/93496808/211107686-d3ebe9bd-ec9c-4281-bb73-85c978eb1e0e.png)
-
 ![mond red](https://user-images.githubusercontent.com/93496808/218572990-d6461595-65c8-44dd-bcbd-2a13b0ae0bcb.png)
 
 ![jotaro](https://user-images.githubusercontent.com/93496808/219949044-550f362a-cdf4-4b5d-bc36-606afd09b5b4.png)
