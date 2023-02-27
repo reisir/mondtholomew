@@ -14,6 +14,8 @@ Mond but it work
 
 ![mond sad](https://user-images.githubusercontent.com/93496808/221367561-7f852938-62b7-4a02-add1-191d8107b2d2.jpg)
 
+![mond youtube](https://user-images.githubusercontent.com/93496808/221584517-084f556e-a288-496c-9ecc-3342b967b011.png)
+
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click and select the "Use the ugly ahh Mond font" context action.
