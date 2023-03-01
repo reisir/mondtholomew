@@ -28,7 +28,7 @@ Mond but it work
 
 ![mond tiktok](https://user-images.githubusercontent.com/93496808/221813383-5d7beee3-a50f-4acd-90b9-61779b0cc533.png)
 
-![mond flower](https://user-images.githubusercontent.com/93496808/221875892-af3496a2-2ea0-49bc-ba7a-fe634237a03b.png)
+![ugly ahh mond](https://user-images.githubusercontent.com/93496808/222035405-3065f4be-d6a8-42c7-aa72-e1acbce1c607.jpg)
 
 ![mond plane](https://user-images.githubusercontent.com/93496808/222010509-b17bd84d-f065-4d5b-a87c-30049741dd9e.png)
 
