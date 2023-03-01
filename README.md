@@ -34,6 +34,10 @@ Mond but it work
 
 ![mond neato](https://user-images.githubusercontent.com/93496808/222016279-28d3fc0a-7b18-4fbe-b8b9-78df23c7ec23.jpg)
 
+![mond linux](https://user-images.githubusercontent.com/93496808/222243067-707049a7-6e41-4ee1-a99a-06322f208081.png)
+
+![mond jogos area de trabalho](https://user-images.githubusercontent.com/93496808/222243078-103e75b2-9443-4314-b269-96c6f786ef5b.png)
+
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click and select the "Use the ugly ahh Mond font" context action.
