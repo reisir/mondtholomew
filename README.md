@@ -32,6 +32,8 @@ Mond but it work
 
 ![mond plane](https://user-images.githubusercontent.com/93496808/222010509-b17bd84d-f065-4d5b-a87c-30049741dd9e.png)
 
+![mond neato](https://user-images.githubusercontent.com/93496808/222016279-28d3fc0a-7b18-4fbe-b8b9-78df23c7ec23.jpg)
+
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click and select the "Use the ugly ahh Mond font" context action.
