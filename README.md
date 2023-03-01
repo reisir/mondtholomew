@@ -38,6 +38,8 @@ Mond but it work
 
 ![mond jogos area de trabalho](https://user-images.githubusercontent.com/93496808/222243078-103e75b2-9443-4314-b269-96c6f786ef5b.png)
 
+![car mond](https://user-images.githubusercontent.com/93496808/222287176-3a3b44b3-1f05-4af0-8bf5-c1127acea561.png)
+
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click and select the "Use the ugly ahh Mond font" context action.
