@@ -6,11 +6,11 @@ Mond but it work
 
 ## Table of contents
 
-1. [Gallery](#gallery) - collection of screenshots people have sent and asked for the skin
+1. [Mond Gallery](#gallery) - collection of screenshots people have sent when asking for the skin
 2. [Features](#features) - features of Mondtholomew
 3. [Installation](#installation) - how to install Mondtholomew
 
-## Gallery
+## Mond Gallery
 
 ![mondo](https://user-images.githubusercontent.com/93496808/196546066-9f953b05-69fe-4f50-9a01-b58d1e03d107.jpg)
 
@@ -27,18 +27,6 @@ Mond but it work
 ![mond youtube](https://user-images.githubusercontent.com/93496808/221584517-084f556e-a288-496c-9ecc-3342b967b011.png)
 
 ![mond tiktok](https://user-images.githubusercontent.com/93496808/221813383-5d7beee3-a50f-4acd-90b9-61779b0cc533.png)
-
-![ugly ahh mond](https://user-images.githubusercontent.com/93496808/222035405-3065f4be-d6a8-42c7-aa72-e1acbce1c607.jpg)
-
-![mond plane](https://user-images.githubusercontent.com/93496808/222010509-b17bd84d-f065-4d5b-a87c-30049741dd9e.png)
-
-![mond neato](https://user-images.githubusercontent.com/93496808/222016279-28d3fc0a-7b18-4fbe-b8b9-78df23c7ec23.jpg)
-
-![mond linux](https://user-images.githubusercontent.com/93496808/222243067-707049a7-6e41-4ee1-a99a-06322f208081.png)
-
-![mond jogos area de trabalho](https://user-images.githubusercontent.com/93496808/222243078-103e75b2-9443-4314-b269-96c6f786ef5b.png)
-
-![car mond](https://user-images.githubusercontent.com/93496808/222287176-3a3b44b3-1f05-4af0-8bf5-c1127acea561.png)
 
 ## Features
 
