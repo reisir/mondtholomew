@@ -6,7 +6,7 @@ Mond but it work
 
 ## Table of contents
 
-1. [Mond Gallery](#gallery) - collection of screenshots people have sent when asking for the skin
+1. [Mond Gallery](#gallery) - screenshots people have sent when asking for the (original) skin
 2. [Features](#features) - features of Mondtholomew
 3. [Installation](#installation) - how to install Mondtholomew
 
