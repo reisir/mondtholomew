@@ -53,8 +53,6 @@ Get the newest .rmskin from [releases](https://github.com/reisir/mondtholomew/re
 
 ## TODO:
 
-- [ ] Better SeparatorPattern (Player.ini)
-- [ ] Better ft. feat. featuring detection (Player.ini)
 - [ ] Maybe figure out why TitleExtraction crashes on NowPlaying
   - It's not because the measure is used by other NowPlaying measures
   - WNP title measure with subtitution doesn't crash when it's empty so it's probably not that either
