@@ -24,7 +24,7 @@ Mond but it work
 
 ![mond sad](https://user-images.githubusercontent.com/93496808/221367561-7f852938-62b7-4a02-add1-191d8107b2d2.jpg)
 
-![mond youtube](https://user-images.githubusercontent.com/93496808/221584517-084f556e-a288-496c-9ecc-3342b967b011.png)
+![mond youtube crop](https://user-images.githubusercontent.com/93496808/222760711-75601013-22c1-4ff3-af77-f700519ebac2.jpg)
 
 ![mond tiktok](https://user-images.githubusercontent.com/93496808/221813383-5d7beee3-a50f-4acd-90b9-61779b0cc533.png)
 
