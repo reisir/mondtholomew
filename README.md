@@ -58,7 +58,6 @@ Get the newest .rmskin from [releases](https://github.com/reisir/mondtholomew/re
 - [ ] Maybe figure out why TitleExtraction crashes on NowPlaying
   - It's not because the measure is used by other NowPlaying measures
   - WNP title measure with subtitution doesn't crash when it's empty so it's probably not that either
-- [ ] Reorganize the folder structure. Some @Include files are in @Resources, some in the config folders
 
 ## Credits
 
@@ -66,3 +65,5 @@ Get the newest .rmskin from [releases](https://github.com/reisir/mondtholomew/re
 - [Weather.com parser](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501) by [@jsmorley](https://github.com/jsmorley)
 - Factory.lua by [@undefinist](https://github.com/undefinist)
 - AudioLevel FFT math from [@kodikuu](https://github.com/kodikuu)
+- [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying) plugin by [@tjhrulz](https://github.com/tjhrulz)
+- [Mouse](https://github.com/NighthawkSLO/Mouse.dll) plugin by [@NighthawkSLO](https://github.com/NighthawkSLO)
