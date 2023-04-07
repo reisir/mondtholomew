@@ -34,6 +34,8 @@ Mond but it work
 
 ![mond tiktok 2](https://user-images.githubusercontent.com/93496808/227754645-73f512b8-506b-4bdc-9ae3-4e0ef8e89bda.jpg)
 
+![mond blue](https://user-images.githubusercontent.com/93496808/230642030-dbb0f12a-f93a-4264-8cdc-8563d715e67f.png)
+
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click and select the "Use the ugly ahh Mond font" context action.
