@@ -1,0 +1,16 @@
+@import url(common.css);
+
+body {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 0;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
+img {
+  flex: 1 0 1;
+  max-width: 50vw;
+}
