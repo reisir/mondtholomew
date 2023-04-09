@@ -1,7 +1,12 @@
 @import url("Aquatico.css");
 @import url("common.css");
 
+#title {
+  gap: 0;
+}
+
 #mondtholomew {
+  gap: 0;
   font-size: 2rem;
   padding: 3rem 0;
 }
@@ -16,6 +21,13 @@
   border-radius: 1rem;
 }
 
-#features h1 {
-  margin-bottom: 1rem;
+#links .section {
+  margin: 0;
+  flex-direction: row;
+}
+
+#links a {
+  background-color: var(--color);
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
 }
