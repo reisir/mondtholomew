@@ -29,7 +29,10 @@ function updateClock() {
     year: "numeric",
   })}`.toUpperCase();
 
-  time.innerText = `- ${now.getHours()} : ${now.getMinutes()} -`;
+  time.innerText = `- ${now.getHours().toString().padStart(2, 0)} : ${now
+    .getMinutes()
+    .toString()
+    .padStart(2, 0)} -`;
 }
 
 updateClock();
