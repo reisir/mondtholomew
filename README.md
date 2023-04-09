@@ -36,6 +36,10 @@ Mond but it work
 
 ![mond blue](https://user-images.githubusercontent.com/93496808/230642030-dbb0f12a-f93a-4264-8cdc-8563d715e67f.png)
 
+![mond anurati font](https://user-images.githubusercontent.com/93496808/230784991-9ae612ec-b441-4612-8a96-14ed57be0bee.jpg)
+
+![mond with the ios](https://user-images.githubusercontent.com/93496808/230785058-ede2bdf7-e744-4fef-9f0d-987d19dcd644.png)
+
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click and select the "Use the ugly ahh Mond font" context action.
