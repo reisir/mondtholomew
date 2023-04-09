@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Aquatico;
+  src: url("Fonts/Quicksand-Regular.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Aquatico;
+  src: url("Fonts/Quicksand-Bold.ttf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Aquatico;
+  src: url("Fonts/Quicksand-Light.ttf");
+  font-weight: lighter;
+}
