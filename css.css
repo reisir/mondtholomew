@@ -1,50 +1,21 @@
 @import url("Aquatico.css");
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  text-decoration: none;
-}
-
-:root {
-  --color: #ffffff;
-  --accent: #fa7e00;
-  --background: #262a2d;
-}
-
-html,
-body {
-  height: 100vh;
-  width: 100vw;
-  background-color: var(--background);
-  color: var(--color);
-  font-family: Quicksand, Arial, Helvetica, sans-serif;
-}
-
-.section {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  align-items: center;
-  justify-content: center;
-}
+@import url("common.css");
 
 #mondtholomew {
   font-size: 2rem;
-  margin: 2rem 0;
+  padding: 3rem 0;
 }
-
-#day {
+#mondtholomew #day {
   font-size: 6rem;
 }
 
-#download {
-  font-size: large;
+#download-link {
   color: var(--color);
   background-color: var(--accent);
   padding: 0.5rem 1rem;
   border-radius: 1rem;
-  margin-top: 2rem;
+}
+
+#features h1 {
+  margin-bottom: 1rem;
 }

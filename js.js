@@ -4,7 +4,7 @@ function latest() {
     .then((data) => {
       const { latest_release } = data[0];
       console.log(data, latest_release);
-      const download = document.querySelector(`#download`);
+      const download = document.querySelector(`#download-link`);
       download.href = latest_release.browser_download_url;
     });
 }

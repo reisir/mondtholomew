@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+:root {
+  --color: #ffffff;
+  --accent: #fa7e00;
+  --background: #262a2d;
+}
+
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: var(--background);
+  color: var(--color);
+  font-family: Quicksand, Arial, Helvetica, sans-serif;
+}
+
+.section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0;
+  font-size: 1.25rem;
+}
+
+a,
+a:hover,
+a:active,
+a:visited {
+  color: var(--accent);
+}
