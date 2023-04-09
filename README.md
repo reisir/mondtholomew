@@ -67,5 +67,5 @@ Get the newest .rmskin from [releases](https://github.com/reisir/mondtholomew/re
 - [Weather.com parser](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501) by [@jsmorley](https://github.com/jsmorley)
 - Factory.lua by [@undefinist](https://github.com/undefinist)
 - AudioLevel FFT math from [@kodikuu](https://github.com/kodikuu)
-- [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying) plugin by [@tjhrulz](https://github.com/tjhrulz)
+- [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) plugin by [@keifufu](https://github.com/keifufu) & [@tjhrulz](https://github.com/tjhrulz)
 - [Mouse](https://github.com/NighthawkSLO/Mouse.dll) plugin by [@NighthawkSLO](https://github.com/NighthawkSLO)
