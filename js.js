@@ -15,24 +15,31 @@ function updateClock() {
   const now = new Date();
   const locale = navigator.languages[0];
 
-  const day = document.getElementById("day");
-  const date = document.getElementById("date");
-  const time = document.getElementById("time");
+  const weekday = document.getElementById("weekday");
 
-  day.innerText = `${now.toLocaleDateString(locale, {
+  weekday.innerText = `${now.toLocaleDateString(locale, {
     weekday: "long",
   })}`.toUpperCase();
 
-  date.innerText = `${now.toLocaleDateString(locale, {
+  const day = document.getElementById("day");
+  const month = document.getElementById("month");
+  const year = document.getElementById("year");
+
+  day.innerText = `${now.toLocaleDateString(locale, {
     day: "numeric",
+  })}`.toUpperCase();
+  month.innerText = `${now.toLocaleDateString(locale, {
     month: "long",
+  })}`.toUpperCase();
+  year.innerText = `${now.toLocaleDateString(locale, {
     year: "numeric",
   })}`.toUpperCase();
 
-  time.innerText = `- ${now.getHours().toString().padStart(2, 0)} : ${now
-    .getMinutes()
-    .toString()
-    .padStart(2, 0)} -`;
+  const hour = document.getElementById("hour");
+  const minute = document.getElementById("minute");
+
+  hour.innerText = now.getHours().toString().padStart(2, 0);
+  minute.innerHTML = now.getMinutes().toString().padStart(2, 0);
 }
 
 updateClock();

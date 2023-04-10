@@ -11,6 +11,10 @@
   --background: #262a2d;
 }
 
+.accent {
+  color: var(--accent);
+}
+
 html,
 body {
   height: 100vh;
@@ -18,6 +22,7 @@ body {
   background-color: var(--background);
   color: var(--color);
   font-family: Quicksand, Arial, Helvetica, sans-serif;
+  font-weight: bold;
 }
 
 .section {

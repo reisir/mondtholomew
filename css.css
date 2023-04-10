@@ -1,8 +1,8 @@
-@import url("Aquatico.css");
+@import url("Quicksand.css");
 @import url("common.css");
 
 #title {
-  gap: 0;
+  gap: 0.25rem;
 }
 
 #mondtholomew {
@@ -10,7 +10,7 @@
   font-size: 2rem;
   padding: 3rem 0;
 }
-#mondtholomew #day {
+#mondtholomew #weekday {
   font-size: 6rem;
 }
 
