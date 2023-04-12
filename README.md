@@ -16,6 +16,10 @@ Mond but it work
 
 ![mond small](https://user-images.githubusercontent.com/93496808/209139555-5de5a09d-bf11-47b5-a035-882a5671db4f.png)
 
+<details>
+  
+  <summary>More Mond images</summary>
+
 ![mond red](https://user-images.githubusercontent.com/93496808/218572990-d6461595-65c8-44dd-bcbd-2a13b0ae0bcb.png)
 
 ![jotaro](https://user-images.githubusercontent.com/93496808/219949044-550f362a-cdf4-4b5d-bc36-606afd09b5b4.png)
@@ -36,6 +40,12 @@ Mond but it work
 
 ![mond blue](https://user-images.githubusercontent.com/93496808/230642030-dbb0f12a-f93a-4264-8cdc-8563d715e67f.png)
 
+![mond anurati font](https://user-images.githubusercontent.com/93496808/230784991-9ae612ec-b441-4612-8a96-14ed57be0bee.jpg)
+
+![mond with the ios](https://user-images.githubusercontent.com/93496808/230785058-ede2bdf7-e744-4fef-9f0d-987d19dcd644.png)
+
+</details>
+  
 ## Features
 
 - Includes the [Anurati Free](https://www.behance.net/gallery/33704618/ANURATI-Free-Font) font by default, no need to download it. It's not used by default though. Right click and select the "Use the ugly ahh Mond font" context action.
@@ -67,5 +77,5 @@ Get the newest .rmskin from [releases](https://github.com/reisir/mondtholomew/re
 - [Weather.com parser](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501) by [@jsmorley](https://github.com/jsmorley)
 - Factory.lua by [@undefinist](https://github.com/undefinist)
 - AudioLevel FFT math from [@kodikuu](https://github.com/kodikuu)
-- [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying) plugin by [@tjhrulz](https://github.com/tjhrulz)
+- [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) plugin by [@keifufu](https://github.com/keifufu) & [@tjhrulz](https://github.com/tjhrulz)
 - [Mouse](https://github.com/NighthawkSLO/Mouse.dll) plugin by [@NighthawkSLO](https://github.com/NighthawkSLO)
