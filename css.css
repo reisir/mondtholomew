@@ -1,8 +1,16 @@
-@import url("Quicksand.css");
+@import url("Fonts.css");
 @import url("common.css");
 
 #title {
   gap: 0.25rem;
+}
+
+/* On hover font changes */
+#mondtholomew:hover #weekday {
+  font-family: Anurati;
+}
+#mondtholomew:hover :not(#weekday) {
+  font-family: Comic Sans MS, "Comic Sans MS";
 }
 
 #mondtholomew {

@@ -15,3 +15,8 @@
   src: url("Fonts/Quicksand-Light.ttf") format("truetype");
   font-weight: lighter;
 }
+
+@font-face {
+  font-family: Anurati;
+  src: url("Fonts/Anurati-Regular.otf") format("opentype");
+}
