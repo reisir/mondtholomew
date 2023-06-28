@@ -72,6 +72,8 @@ Get the newest .rmskin from [releases](https://github.com/reisir/mondtholomew/re
 ## TODO:
 
 - [ ] Player duration formatting for durations over an hour
+- [ ] Codebase cleanup it's a mess!!!
+  - Either move all of the code into their separate files or inline it all. Decide!
 
 ## Credits
 
