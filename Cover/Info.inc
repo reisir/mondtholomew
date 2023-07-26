@@ -8,6 +8,7 @@ StringCase=#StringCase#
 FontFace=#FontFace#
 AntiAlias=1
 Y=(5 * #Scale#)R
+FontWeight=#FontWeight#
 
 [MeterInfo]
 Meter=String
