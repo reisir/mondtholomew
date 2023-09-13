@@ -18,6 +18,7 @@ Container=MeterCoverContainer
 DynamicVariables=1
 Group=Cover | Mouse
 ImageTint=(#MouseOver# = 0 ? #CoverTint# : #CoverTintOnHover#),(#MouseOver# = 0 ? #CoverTint# : #CoverTintOnHover#),(#MouseOver# = 0 ? #CoverTint# : #CoverTintOnHover#)
+UpdateDivider=-1
 
 [MeterCoverOutline]
 Meter=Shape
