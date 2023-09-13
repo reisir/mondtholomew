@@ -89,3 +89,4 @@ Get the newest .rmskin from [releases](https://github.com/reisir/mondtholomew/re
 - AudioLevel FFT math from [@kodikuu](https://github.com/kodikuu)
 - [WebNowPlaying-Redux](https://github.com/keifufu/WebNowPlaying-Redux-Rainmeter) plugin by [@keifufu](https://github.com/keifufu) & [@tjhrulz](https://github.com/tjhrulz)
 - [Mouse](https://github.com/NighthawkSLO/Mouse.dll) plugin by [@NighthawkSLO](https://github.com/NighthawkSLO)
+- Modified Anurati Free font with ÄÖÅ from a suspicious USB drive left on my doorstep
