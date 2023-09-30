@@ -52,6 +52,8 @@ Mond but it work
 
 ![mond gansta](https://github.com/reisir/mondtholomew/assets/93496808/0820f907-2efd-45fe-92d8-011fa626fb81)
 
+![mond photo 2](https://github.com/reisir/mondtholomew/assets/93496808/ce021426-b7a4-4072-8033-aab2d27f91d0)
+
 </details>
   
 ## Features
