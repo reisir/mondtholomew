@@ -1,6 +1,17 @@
 @import url("Fonts.css");
 @import url("common.css");
 
+html, body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+body {
+  padding: 0 4rem;
+}
+
 #title {
   gap: 0.25rem;
 }
@@ -16,13 +27,13 @@
 #mondtholomew {
   gap: 0;
   font-size: 2rem;
-  padding: 3rem 0;
+  padding: 2rem 0;
 }
 #mondtholomew #weekday {
   font-size: 6rem;
 }
 
-#download-link {
+#wiki-link {
   color: var(--color);
   background-color: var(--accent);
   padding: 0.5rem 1rem;
