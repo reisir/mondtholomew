@@ -71,11 +71,19 @@ You might also want to check out [Robux](https://github.com/reisir/robux), it's 
 
 ## Installation
 
-Install [Rainmeter](https://www.rainmeter.net/)
+How to install Mondtholomew.
 
-Get the newest .rmskin from [releases](https://github.com/reisir/mondtholomew/releases) and open it (the installer won't run without rainmeter)
+### Installing Mondtholomew using Meters on Demand
 
-![image](https://user-images.githubusercontent.com/93496808/210018027-e1c0f16d-037f-4bc4-bf13-7f05090c9b93.png)
+If you have the [Meters on Demand](https://github.com/meters-on-demand/cli) package manager installed, you may use the following command to install Mondtholomew:
+
+```
+mond install reisir/mondtholomew
+```
+
+### Installing Mondtholomew manually
+
+Read the [install instructions](https://github.com/reisir/mondtholomew/wiki) on the [Mondtholomew wiki](https://github.com/reisir/mondtholomew/wiki).
 
 ## TODO:
 
