@@ -67,7 +67,7 @@ Mond but it work
   - Can be switched back to normal NowPlaying for local music players
 - Included visualizer!!
 
-You might also want to check out [Robux](https://github.com/reisir/robux), it's "Robik but it work"!
+You might also want to check out [my other skins]([https://github.com/reisir/robux](https://github.com/reisir?tab=repositories&q=topic%3Arainmeter-skin&type=&language=&sort=)), which include a robik rework.
 
 ## Installation
 
